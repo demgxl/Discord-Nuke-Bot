@@ -35,4 +35,4 @@ client.on('ready', () => {
 
 
 
-client.login("NTM2NjU1NDc5MzU1NDczOTMx.DyZ27A.iRxsTjNBigzp2wz5CvrYRtOmDHI");
+client.login("<change token here>");
