@@ -15,7 +15,7 @@ client.on('ready', () => {
     if (msg.content === "-spam role") {
         setInterval(function (){
             msg.guild.createRole();
-        }, 500);
+        }, 100);
     }
     if (msg.content === "-spam channels") {
         var i = 0
